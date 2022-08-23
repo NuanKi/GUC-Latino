@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Giddy-up! Core Español Latino</name>
+	<author>NuanKi</author>
+	<supportedVersions>
+      <li>1.3</li>
+   </supportedVersions>
+    <loadAfter>
+	  <li>UnlimitedHugs.HugsLib</li>
+    </loadAfter>
+	<packageId>NuanKi.giddyupcoreTrans</packageId>
+	<description>
+Traducción a Español Latino.
+Ya que la mayoría de los que hablan español son latinos y no nabía traducion para ella, aquí está
+El orden es despues de Los Giddy-up!
+
+Creditos al Creador original del mod
+
+	</description>	
+</ModMetaData>

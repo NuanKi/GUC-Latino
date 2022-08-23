@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GUC_Animal_Handling.label>Giddy-up!: Habilidad en el manejo de animales</GUC_Animal_Handling.label>
+  <GUC_Animal_Handling.helpText>La habilidad de manejo de animales de un colono afecta a la eficacia con la que pueden utilizar las monturas. Por cada nivel que la habilidad esté por debajo del nivel necesario para domar un animal, se aplica una penalización al movimiento (2%) y a la precisión (0,5%) por cada nivel. Si el nivel de la habilidad está por encima del nivel necesario para domar al animal, se aplica una bonificación igual. Las bonificaciones/penalizaciones por nivel pueden configurarse en los ajustes del mod.</GUC_Animal_Handling.helpText>
+
+
+</LanguageData>
